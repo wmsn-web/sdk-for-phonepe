@@ -15,7 +15,7 @@ composer require wmsn-web/sdk-for-phonepe:^1.0
 - Creating a index.php
 ```php
 <?php
-use Dwivedianuj9118\PhonePePaymentGateway\PhonePe;
+use WsmnWeb\SdkForPhonepe\PhonePe;
 
 require __DIR__ . '/vendor/autoload.php';
 
@@ -37,7 +37,7 @@ echo $data['url']; // here you get url after initiated PhonePe gateway
 
 ```php
 <?php
-use Dwivedianuj9118\PhonePePaymentGateway\PhonePe;
+use WsmnWeb\SdkForPhonepe\PhonePe;
 
 require __DIR__ . '/vendor/autoload.php';
 
