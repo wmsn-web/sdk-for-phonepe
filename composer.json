@@ -20,7 +20,8 @@
             "email": "wmsn.web@gmail.com"
         }
     ],
-    
+
     "minimum-stability": "stable",
-    "require": {}
+    "prefer-stable": true
+    
 }
