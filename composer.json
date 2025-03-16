@@ -20,12 +20,7 @@
             "email": "wmsn.web@gmail.com"
         }
     ],
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/wmsn-web/sdk-for-phonepe"
-        }
-    ],
+    
     "minimum-stability": "stable",
     "require": {}
 }
