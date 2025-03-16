@@ -1,0 +1,25 @@
+{
+    "name": "wmsn-web/sdk-for-phonepe",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "^11.5"
+    },
+    "require":{
+        "ext-curl": "*",
+        "ext-json": "*"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "WmsnWeb\\SdkForPhonepe\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wmsn-web",
+            "email": "wmsn.web@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
